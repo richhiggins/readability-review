@@ -1,6 +1,6 @@
 # Readability review skill
 
-A Claude skill that reviews a document (or url) against the [Readability Guidlines checklist](https://readabilityguidelines.co.uk/readability-checklist/) and produces an actionable response with recommendations that reference the guidelines.
+A Claude skill that reviews a document (or url) against the [Readability Guidlines](https://readabilityguidelines.co.uk/) and produces an actionable response with recommendations that reference the guidelines.
 
 Installable Skill package: https://github.com/richhiggins/readability-review/blob/main/readability-review.skill
 
