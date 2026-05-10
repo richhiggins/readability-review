@@ -28,6 +28,8 @@ The user may provide content in several ways:
 
 Open `references/guidelines.md` before analysing anything. The skill is only useful if the report cites specific rules (G1, G18, G53, etc.) — guessing at rule IDs from memory will produce broken citations.
 
+For the most-cited rules (G1–G3, G5–G10, G18–G20), `references/rules-detailed.md` has fuller source-grounded detail: the rationale, specific words/phrases to flag, and faithful before/after examples. Read it when you're about to suggest a fix for any of those rules — it's the difference between citing the rule and explaining *why* the fix matters. For other rules, work from `guidelines.md` and general principles.
+
 ### 3. Analyse the document
 
 Work through the rules section by section (Clear Language → Grammar → Audiences → Content Design). For each rule:
